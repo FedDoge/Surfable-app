@@ -41,7 +41,7 @@ const websites = [
   {
     title: 'YouTube',
     appId: 'com.google.android.youtube',
-    icon: 'https://image.similarpng.com/very-thumbnail/2020/07/Youtube-logo-vector-PNG.png',
+    icon: 'https://play-lh.googleusercontent.com/6am0i3walYwNLc08QOOhRJttQENNGkhlKajXSERf3JnPVRQczIyxw2w3DxeMRTOSdsY',
     developerWebsite: 'https://www.youtube.com/'
   },
   {
